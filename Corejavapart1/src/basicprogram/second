@@ -1,0 +1,17 @@
+package basicprogram;
+
+public class DataType {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		byte b = 231;
+		int a = 341;
+		short s = 101;
+		long l = 5678L;
+		System.out.println("Byte: "+byte);
+		System.out.println("Int: "+int);
+		System.out.println("Short :"+short);
+		System.out.println("Long: "+long);
+	}
+
+}
